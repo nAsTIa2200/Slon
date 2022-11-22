@@ -9,6 +9,6 @@
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="284,239,0,0" VerticalAlignment="Top"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="634,166,0,0" VerticalAlignment="Top"/>
-
+ <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="464,332,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
